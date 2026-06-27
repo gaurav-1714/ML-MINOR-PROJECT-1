@@ -1,0 +1,20 @@
+MODEL EVALUATION SUMMARY
+========================================
+
+Logistic Regression
+  Accuracy : 0.9825
+  Precision: 0.9861
+  Recall   : 0.9861
+  F1-score : 0.9861
+  ROC-AUC  : 0.9954
+  Confusion Matrix: [[41, 1], [1, 71]]
+
+Random Forest
+  Accuracy : 0.9561
+  Precision: 0.9589
+  Recall   : 0.9722
+  F1-score : 0.9655
+  ROC-AUC  : 0.9932
+  Confusion Matrix: [[39, 3], [2, 70]]
+
+Best model (by F1-score): Logistic Regression
